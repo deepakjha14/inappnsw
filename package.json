@@ -1,0 +1,14 @@
+{
+  "name": "inapppwa",
+  "version": "1.0.0",
+  "description": "Inappbrowser pwa android",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "4.13.3"
+  },
+  "author": "Deepak Jha",
+  "license": "ISC"
+}
